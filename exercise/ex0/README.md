@@ -6,7 +6,7 @@ Before you start with the actual tutorial, prepare yourself by having the below 
 
 ## Participant Number
 
-When you run through the exercise steps, you need to ensure that you use your <b>participant number</b> that runs from <b> 01 - 60 </b>.
+When you run through the exercise steps, you need to ensure that you use your <b>participant number</b> that runs from <b> 01 - 80 </b>.
 
 Ensure you know the right number and use it. You can find the participant number on your table.
 
