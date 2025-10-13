@@ -111,7 +111,7 @@ You should receive the message.
 
 ![Pic 10](../../images/ex2-10.png)
 
-- Send a reichstag.open event to city/berlin/sights/monuments/reichstag/open
+- Send a reichstag.open event with the topic city/berlin/sights/monuments/reichstag/open
 
 ![Pic 11](../../images/ex2-11.png)
 
