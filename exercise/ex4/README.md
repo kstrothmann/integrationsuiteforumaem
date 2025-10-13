@@ -1,4 +1,4 @@
-![AEM Replay](images/ex4_0.png)
+![AEM Replay](images/ex4-0.png)
 
 
 # Exercise 4 - Event Replay
